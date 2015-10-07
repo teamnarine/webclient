@@ -17,7 +17,7 @@ X
 Option Explicit
 On Error Resume Next
 
-Const StrRes0	=	"COPY is not yet supported.  It will be soon."
+s
 Const StrRes1	=	"Command not recognized: "
 Const StrRes2	=	"For help, just type ""Cscript.exe adsutil.vbs""."
 Const StrRes3	=	"Usage:"
